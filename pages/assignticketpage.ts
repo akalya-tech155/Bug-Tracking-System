@@ -1,0 +1,23 @@
+/*
+
+Scenario
+
+Manager assigns bug to developer.
+
+Steps
+
+Login as Manager
+
+Open ticket
+
+Click Assign
+
+Choose developer
+
+John Smith
+
+Click Save
+
+Verify
+
+*/
