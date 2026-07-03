@@ -1,0 +1,21 @@
+/* 
+Scenario
+
+User logs in and creates a new bug.
+
+Test Steps
+Login
+Click Create Ticket
+Enter
+Title
+Description
+Module
+Environment
+Steps to Reproduce
+Select
+Severity
+Priority
+Click Submit
+Verify
+
+*/
